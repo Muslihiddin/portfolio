@@ -1,0 +1,18 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Pendon",
+      "position": "Founder, Double Bunch",
+      "testimonial": "Muslihiddin helped us build a software so intuitive that it didn't need a walk-through. He solved complex problems with brilliant design.",
+      "img": "/Drake.png"
+    },
+    {
+      "id": 2,
+      "name": "Benjamin Franklin",
+      "position": "Reshala, Bratan",
+      "testimonial": "What a great guy. Put me in his pocket and never lets me go. So much wow, he thinks lot of his problems gonna fade away by me. Damn",
+      "img": "/Benjamin.jpg"
+    }
+  ]
+}
