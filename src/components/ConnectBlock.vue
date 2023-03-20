@@ -10,7 +10,7 @@
       </a>
     </div>
     <p class="text-4xl leading-[54px] text-center font-semibold">
-      Feel free to reach me out, who knows maybe we could build something magnificent together 😎
+      Feel free to reach me out, we gonna build something magnificent together 😎
     </p>
     <div class="flex justify-center mt-10 pb-[100px]">
       <a href="mailto:muslihiddin97@gmail.com" class="text-primary text-4xl leading-[54px]"
